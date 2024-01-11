@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">Hi there 👋! I'm Sharon Ma! </h2>
+<h2 align="left">Hi there, I'm Sharon Ma! 👋 </h2>
 
 ###
 
-<h3 align="left">I'm a FinTech Associate Product Manager. </h3>
+<h3 align="left">I'm an Associate Product Manager in FinTech. </h3>
 
 ###
 
