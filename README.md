@@ -3,7 +3,7 @@
 
 ###
 
-<h3 align="left">I'm an Associate Product Manager in FinTech. </h3>
+<h3 align="left">I'm a Product Manager in FinTech. </h3>
 
 ###
 
