@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi, I'm Sharon Ma! 👋 </h2>
+<h2 align="left">Hi, I'm Sharon! 👋 </h2>
 
 ###
 
