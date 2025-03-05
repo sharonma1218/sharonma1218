@@ -1,9 +1,9 @@
 
-<h2 align="left">Hi there, I'm Sharon Ma! 👋 </h2>
+<h2 align="left">Hi, I'm Sharon Ma! 👋 </h2>
 
 ###
 
-<h3 align="left">I'm a Product Manager in FinTech. </h3>
+<h3 align="left">I'm a FinTech Product Manager! </h3>
 
 ###
 
