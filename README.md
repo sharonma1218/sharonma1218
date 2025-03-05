@@ -3,7 +3,7 @@
 
 ###
 
-<h3 align="left">I'm a FinTech PM! </h3>
+<h3 align="left"> From UMich Data Analytics 🎓 to FinTech PM 📈 </h3>
 
 ###
 
