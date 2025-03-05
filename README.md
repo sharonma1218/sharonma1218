@@ -5,6 +5,7 @@
 
 <h3 align="left"> From UMich Data Analytics 🎓 to FinTech PM 📈 </h3>
 <h3 align="left"> 💯% Datathon Winrate </h3>
+<h3 align="left"> R, SQL, Python, MatLab, & Stata </h3>
 
 ###
 
