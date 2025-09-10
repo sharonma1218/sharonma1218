@@ -5,7 +5,7 @@
 
 <h3 align="left"> I like to define and build products that solves real problems 🙂 </h3>
 <h3 align="left"> 🏆 3x FinTech PM </h3>
-<h3 align="left"> 🏆 2x Case Competition or Datathon Winner </h3>
+<h3 align="left"> 🏆 2x Case Competition & Datathon Winner </h3>
 
 ###
 
