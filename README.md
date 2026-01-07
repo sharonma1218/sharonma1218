@@ -5,7 +5,7 @@
 
 <h3 align="left"> 👩🏻‍💻 3x FinTech PM </h3>
 <h3 align="left"> 🏆 2x Case Competition & Datathon Winner </h3>
-<h3 align="left"> 📚 UMich'23 & UPenn'28 </h3>
+<h3 align="left"> 📚 UMich '23 & UPenn '28 </h3>
 
 ###
 
